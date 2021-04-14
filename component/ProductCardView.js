@@ -3,7 +3,7 @@ import { Image, Text, View, StyleSheet } from 'react-native'
 import connector from '../connector/connector'
 
 function ProductCardView(props) {
-
+ 
     const { product } = props;
 
     return (

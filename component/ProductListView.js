@@ -31,7 +31,6 @@ const style= StyleSheet.create({
         padding: 10,
         marginBottom: 10,
         textAlign: "center",
-        // fontWeight: "bold"
     }
 })
 
